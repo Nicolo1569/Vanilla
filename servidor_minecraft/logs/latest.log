@@ -1,0 +1,37 @@
+[22:42:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:42:59] [ServerMain/INFO]: Loaded 1407 recipes
+[22:42:59] [ServerMain/INFO]: Loaded 1520 advancements
+[22:42:59] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:42:59] [Server thread/INFO]: Loading properties
+[22:42:59] [Server thread/INFO]: Default game type: SURVIVAL
+[22:42:59] [Server thread/INFO]: Generating keypair
+[22:42:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:42:59] [Server thread/INFO]: Using epoll channel type
+[22:42:59] [Server thread/INFO]: Preparing level "world"
+[22:43:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:43:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:43:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:43:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:43:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:43:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:43:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:43:02] [Server thread/INFO]: Time elapsed: 2726 ms
+[22:43:02] [Server thread/INFO]: Done (3.006s)! For help, type "help"
+[22:43:09] [User Authenticator #1/INFO]: UUID of player Chocolina1569 is 273dae71-fcb8-417c-8c89-11887c2db77b
+[22:43:10] [Server thread/INFO]: Chocolina1569[/100.71.74.70:51361] logged in with entity id 58 at (75.5, 81.0, 329.5)
+[22:43:10] [Server thread/INFO]: Chocolina1569 joined the game
+[22:43:26] [Server thread/INFO]: Chocolina1569 lost connection: Disconnected
+[22:43:26] [Server thread/INFO]: Chocolina1569 left the game
+[22:44:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:47:36] [User Authenticator #2/INFO]: UUID of player TUVIEJA__ is 9ba074b5-4b79-4d3a-9739-7e6974979a0d
+[22:47:38] [Server thread/INFO]: TUVIEJA__[/100.74.174.50:55788] logged in with entity id 377 at (77.5, 80.0, 329.5)
+[22:47:38] [Server thread/INFO]: TUVIEJA__ joined the game
+[22:48:06] [User Authenticator #3/INFO]: UUID of player Chocolina1569 is 273dae71-fcb8-417c-8c89-11887c2db77b
+[22:48:06] [Server thread/INFO]: Chocolina1569[/100.71.74.70:51440] logged in with entity id 645 at (87.58060409930916, 75.0, 342.4554449745607)
+[22:48:06] [Server thread/INFO]: Chocolina1569 joined the game
+[22:51:07] [Server thread/INFO]: Chocolina1569 has made the advancement [Stone Age]
+[22:51:14] [Server thread/INFO]: TUVIEJA__ has made the advancement [Stone Age]
+[22:51:37] [Server thread/INFO]: Chocolina1569 has made the advancement [Getting an Upgrade]
+[22:52:19] [User Authenticator #4/INFO]: UUID of player NIKKO_2020 is 66efbe92-84e7-4c40-9122-718944dfa723
+[22:52:20] [Server thread/INFO]: NIKKO_2020[/100.121.207.62:56428] logged in with entity id 1481 at (80.5, 80.0, 329.5)
+[22:52:20] [Server thread/INFO]: NIKKO_2020 joined the game
