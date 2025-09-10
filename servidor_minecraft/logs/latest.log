@@ -1,31 +1,120 @@
-[00:00:05] [Server thread/INFO]: Chocolina1569 was shot by Skeleton
-[00:00:11] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to NIKKO_2020]
-[00:00:12] [Server thread/INFO]: Chocolina1569 was blown up by Creeper
-[00:00:30] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to NIKKO_2020]
-[00:00:54] [Server thread/INFO]: TUVIEJA__ was slain by Zombie
-[00:00:57] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to Chocolina1569]
-[00:01:01] [Server thread/INFO]: Chocolina1569 was slain by Zombie
-[00:01:08] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to TUVIEJA__]
-[00:01:30] [Server thread/INFO]: NIKKO_2020 was slain by Zombie
-[00:01:42] [Server thread/INFO]: [NIKKO_2020: Teleported NIKKO_2020 to TUVIEJA__]
-[00:03:19] [Server thread/INFO]: TUVIEJA__ has made the advancement [Suit Up]
-[00:03:20] [Server thread/INFO]: TUVIEJA__ has made the advancement [Isn't It Iron Pick]
-[00:04:49] [Server thread/INFO]: TUVIEJA__ was slain by Chocolina1569
-[00:04:54] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to Chocolina1569]
-[00:07:51] [Server thread/INFO]: Chocolina1569 has made the advancement [Sneak 100]
-[00:07:56] [Server thread/INFO]: TUVIEJA__ has made the advancement [Sneak 100]
-[00:11:47] [Server thread/INFO]: Chocolina1569 has made the advancement [Diamonds!]
-[00:13:25] [Server thread/INFO]: TUVIEJA__ was slain by Warden
-[00:13:31] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to Chocolina1569]
-[00:13:53] [Server thread/INFO]: [NIKKO_2020: Teleported NIKKO_2020 to Chocolina1569]
-[00:13:58] [Server thread/INFO]: Chocolina1569 was obliterated by a sonically-charged shriek
-[00:14:00] [Server thread/INFO]: TUVIEJA__ has made the advancement [Diamonds!]
-[00:14:05] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to TUVIEJA__]
-[00:17:47] [Server thread/INFO]: NIKKO_2020 has made the advancement [Diamonds!]
-[00:18:18] [Server thread/INFO]: TUVIEJA__ was blown up by Creeper
-[00:18:31] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to NIKKO_2020]
-[00:20:09] [User Authenticator #11/INFO]: Disconnecting Satania76 (/100.68.139.11:59004): Failed to verify username!
-[00:20:09] [User Authenticator #11/ERROR]: Username 'Satania76' tried to join with an invalid session
-[00:20:09] [Server thread/INFO]: Satania76 (/100.68.139.11:59004) lost connection: Failed to verify username!
-[00:21:57] [Server thread/INFO]: Chocolina1569 was slain by NIKKO_2020
-[00:22:01] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to TUVIEJA__]
+[00:32:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:32:09] [ServerMain/INFO]: Loaded 1407 recipes
+[00:32:09] [ServerMain/INFO]: Loaded 1520 advancements
+[00:32:10] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:32:10] [Server thread/INFO]: Loading properties
+[00:32:10] [Server thread/INFO]: Default game type: SURVIVAL
+[00:32:10] [Server thread/INFO]: Generating keypair
+[00:32:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:32:10] [Server thread/INFO]: Using epoll channel type
+[00:32:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:32:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:32:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:32:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:32:10] [Server thread/INFO]: Preparing level "world"
+[00:32:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:32:13] [Server thread/INFO]: Time elapsed: 2903 ms
+[00:32:13] [Server thread/INFO]: Done (3.210s)! For help, type "help"
+[00:32:25] [Server thread/INFO]: Chocolina1569[/100.71.74.70:52695] logged in with entity id 3 at (97.88078747893923, 77.0, 364.2039648154032)
+[00:32:25] [Server thread/INFO]: Chocolina1569 joined the game
+[00:32:44] [Server thread/INFO]: NIKKO_2020[/100.121.207.62:60860] logged in with entity id 238 at (81.5, 86.0, 343.5)
+[00:32:44] [Server thread/INFO]: NIKKO_2020 joined the game
+[00:33:09] [Server thread/INFO]: Satania76[/100.68.139.11:59950] logged in with entity id 343 at (84.5, 80.0, 328.5)
+[00:33:09] [Server thread/INFO]: Satania76 joined the game
+[00:33:32] [Server thread/INFO]: Chocolina1569 was slain by Satania76
+[00:33:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=75, z=336}
+[00:33:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=76, z=335}
+[00:33:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=76, z=335}
+[00:33:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=76, z=335}
+[00:33:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=76, z=335}
+[00:33:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=76, z=335}
+[00:33:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=83, y=76, z=335}
+[00:33:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=88, y=74, z=339}
+[00:33:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=89, y=74, z=338}
+[00:33:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=77, z=338}
+[00:33:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=76, z=338}
+[00:33:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=76, z=338}
+[00:33:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=76, z=339}
+[00:33:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=76, z=339}
+[00:33:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=76, z=342}
+[00:33:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=91, y=76, z=339}
+[00:33:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=84, y=76, z=336}
+[00:33:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=84, y=76, z=336}
+[00:33:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=85, y=76, z=336}
+[00:33:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=115, y=78, z=350} jb{x=86, y=77, z=336}
+[00:33:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=115, y=78, z=350} jb{x=84, y=75, z=337}
+[00:33:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=87, y=76, z=335}
+[00:34:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=77, y=72, z=336}
+[00:34:12] [Server thread/INFO]: Chocolina1569 has made the advancement [Monster Hunter]
+[00:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=77, y=72, z=336}
+[00:34:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=78, y=72, z=336}
+[00:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=78, y=75, z=338}
+[00:34:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=79, y=75, z=337}
+[00:34:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=78, y=73, z=336}
+[00:34:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=78, y=73, z=338}
+[00:34:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=76, y=71, z=340}
+[00:34:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=76, y=71, z=340}
+[00:34:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=74, y=71, z=339}
+[00:34:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=76, y=69, z=339}
+[00:34:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=77, y=70, z=339}
+[00:34:34] [Server thread/INFO]: NIKKO_2020 lost connection: Disconnected
+[00:34:34] [Server thread/INFO]: NIKKO_2020 left the game
+[00:34:45] [Server thread/WARN]: Couldn't find profile with name: chcolina1569
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name chcolina1569
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
+	at axx.a(SourceFile:80) ~[server-1.21.8.jar:?]
+	at axx.a(SourceFile:137) ~[server-1.21.8.jar:?]
+	at fa.a(SourceFile:65) ~[server-1.21.8.jar:?]
+	at fa.a(SourceFile:31) ~[server-1.21.8.jar:?]
+	at apc.a(SourceFile:33) ~[server-1.21.8.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at hx.a(SourceFile:29) ~[server-1.21.8.jar:?]
+	at hx.execute(SourceFile:13) ~[server-1.21.8.jar:?]
+	at hs.a(SourceFile:8) ~[server-1.21.8.jar:?]
+	at hk.a(SourceFile:8) ~[server-1.21.8.jar:?]
+	at ho.a(SourceFile:107) ~[server-1.21.8.jar:?]
+	at el.a(SourceFile:420) ~[server-1.21.8.jar:?]
+	at el.a(SourceFile:350) ~[server-1.21.8.jar:?]
+	at el.a(SourceFile:336) ~[server-1.21.8.jar:?]
+	at ari.br(SourceFile:300) ~[server-1.21.8.jar:?]
+	at ari.G(SourceFile:282) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:1074) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:947) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:707) ~[server-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:291) ~[server-1.21.8.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:34:45] [Server thread/INFO]: Made chcolina1569 a server operator
+[00:35:28] [Server thread/INFO]: Made Satania76 a server operator
+[00:36:09] [Server thread/INFO]: [Satania76: Teleported Satania76 to Chocolina1569]
+[00:36:17] [Server thread/INFO]: [Not Secure] <Chocolina1569> op
+[00:36:21] [Server thread/INFO]: [Satania76: Made Chocolina1569 a server operator]
+[00:36:28] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to Satania76]
+[00:36:41] [Server thread/INFO]: Chocolina1569 was blown up by Creeper
+[00:36:43] [Server thread/INFO]: TUVIEJA__[/100.74.174.50:59895] logged in with entity id 965 at (90.5, 83.0, 341.5)
+[00:36:43] [Server thread/INFO]: TUVIEJA__ joined the game
+[00:36:46] [Server thread/INFO]: Chocolina1569 has made the advancement [Stone Age]
+[00:37:14] [Server thread/INFO]: NIKKO_2020[/100.121.207.62:61261] logged in with entity id 1068 at (75.68983599958825, 72.0, 329.4573606353991)
+[00:37:14] [Server thread/INFO]: NIKKO_2020 joined the game
+[00:37:57] [Server thread/INFO]: Satania76 has made the advancement [Monster Hunter]
+[00:38:23] [Server thread/INFO]: [Chocolina1569: Teleported Chocolina1569 to Satania76]
+[00:38:32] [Server thread/INFO]: [Chocolina1569: Made NIKKO_2020 a server operator]
+[00:38:33] [Server thread/INFO]: TUVIEJA__ was slain by Zombie
+[00:38:34] [Server thread/INFO]: [Chocolina1569: Made TUVIEJA__ a server operator]
+[00:38:35] [Server thread/INFO]: Satania76 was slain by Zombie
+[00:38:49] [Server thread/INFO]: [Satania76: Teleported Satania76 to TUVIEJA__]
+[00:39:40] [Server thread/INFO]: NIKKO_2020 was blown up by Creeper
+[00:39:45] [Server thread/INFO]: TUVIEJA__ fell from a high place
+[00:39:47] [Server thread/INFO]: NIKKO_2020 has made the advancement [Stone Age]
+[00:39:48] [Server thread/INFO]: Satania76 was blown up by Creeper
+[00:39:51] [Server thread/INFO]: Chocolina1569 was slain by Zombie
+[00:40:16] [Server thread/INFO]: NIKKO_2020 was slain by Zombie
+[00:40:17] [Server thread/INFO]: Satania76 was slain by Zombie
+[00:40:45] [Server thread/INFO]: [Satania76: Teleported Satania76 to TUVIEJA__]
