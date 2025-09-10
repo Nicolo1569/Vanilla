@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-09-10 01:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-10 00:55:48 +0000"
@@ -640,6 +646,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-09-10 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-10 01:24:54 +0000"
     },
     "done": true
   },
@@ -1099,6 +1111,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-09-10 00:45:35 +0000",
+      "cooked_mutton": "2025-09-10 01:26:26 +0000",
       "glow_berries": "2025-09-10 00:55:20 +0000"
     },
     "done": false

@@ -205,3 +205,21 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [01:21:24] [Server thread/INFO]: [Tinchomaz: Teleported Tinchomaz to TUVIEJA__]
 [01:22:15] [Server thread/INFO]: Tinchomaz has made the advancement [Stone Age]
 [01:22:24] [Server thread/INFO]: Tinchomaz has made the advancement [Getting an Upgrade]
+[01:22:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=8, y=64, z=744} jb{x=8, y=62, z=744}
+[01:24:06] [Server thread/INFO]: [Satania76: Teleported Satania76 to Chocolina1569]
+[01:24:54] [Server thread/INFO]: Chocolina1569 has made the advancement [Take Aim]
+[01:25:40] [Server thread/INFO]: [Satania76: Teleported Satania76 to TUVIEJA__]
+[01:27:31] [Server thread/INFO]: [Satania76: Teleported Satania76 to Chocolina1569]
+[01:28:16] [Server thread/INFO]: [Satania76: Teleported Satania76 to TUVIEJA__]
+[01:28:37] [Server thread/INFO]: TUVIEJA__ was slain by Tinchomaz
+[01:28:48] [Server thread/INFO]: Tinchomaz has made the advancement [Suit Up]
+[01:28:49] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to Tinchomaz]
+[01:29:00] [Server thread/INFO]: Chocolina1569 has made the advancement [Fishy Business]
+[01:29:25] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to Satania76]
+[01:29:31] [Server thread/INFO]: Satania76 was slain by TUVIEJA__
+[01:29:54] [Server thread/INFO]: [Satania76: Teleported Satania76 to Chocolina1569]
+[01:30:07] [Server thread/INFO]: [Satania76: Teleported Satania76 to TUVIEJA__]
+[01:31:03] [Server thread/INFO]: [Satania76: Teleported Satania76 to Chocolina1569]
+[01:31:06] [Server thread/INFO]: [TUVIEJA__: Teleported TUVIEJA__ to Satania76]
+[01:31:09] [Server thread/INFO]: Satania76 was slain by TUVIEJA__
+[01:31:19] [Server thread/INFO]: [Satania76: Teleported Satania76 to TUVIEJA__]

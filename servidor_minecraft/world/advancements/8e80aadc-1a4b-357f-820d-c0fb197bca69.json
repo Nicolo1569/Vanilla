@@ -89,6 +89,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-09-10 01:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-10 01:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 01:00:50 +0000"
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-09-10 01:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-10 00:38:05 +0000"
@@ -188,6 +206,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-09-10 01:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-09-10 01:24:20 +0000"
     },
     "done": true
   },
@@ -335,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-09-10 01:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 01:00:50 +0000"
@@ -362,6 +392,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-09-10 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-09-10 01:24:20 +0000"
     },
     "done": true
   },
@@ -434,6 +470,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-09-10 00:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-10 01:24:20 +0000"
     },
     "done": true
   },
@@ -593,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-10 01:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-09-10 01:18:20 +0000"
@@ -662,6 +710,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-09-10 01:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-10 01:24:20 +0000"
     },
     "done": true
   },
@@ -889,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-10 01:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-09-10 00:37:33 +0000"
@@ -910,6 +970,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-10 01:26:15 +0000"
     },
     "done": true
   },
@@ -991,9 +1057,11 @@
       "minecraft:forest": "2025-09-10 01:20:18 +0000",
       "minecraft:ocean": "2025-09-10 00:40:30 +0000",
       "minecraft:deep_ocean": "2025-09-10 01:03:49 +0000",
+      "minecraft:river": "2025-09-10 01:24:52 +0000",
       "minecraft:birch_forest": "2025-09-10 00:39:43 +0000",
       "minecraft:stony_shore": "2025-09-10 00:38:42 +0000",
-      "minecraft:lush_caves": "2025-09-10 00:47:19 +0000"
+      "minecraft:lush_caves": "2025-09-10 00:47:19 +0000",
+      "minecraft:plains": "2025-09-10 01:24:28 +0000"
     },
     "done": false
   },
@@ -1063,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-10 01:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-09-10 01:05:49 +0000"
@@ -1095,6 +1169,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-10 01:23:23 +0000",
+      "cooked_chicken": "2025-09-10 01:28:20 +0000",
       "glow_berries": "2025-09-10 00:49:55 +0000",
       "cooked_beef": "2025-09-10 01:21:26 +0000",
       "tropical_fish": "2025-09-10 01:12:50 +0000"
@@ -1182,6 +1258,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-09-10 00:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-10 01:24:20 +0000"
     },
     "done": true
   },
